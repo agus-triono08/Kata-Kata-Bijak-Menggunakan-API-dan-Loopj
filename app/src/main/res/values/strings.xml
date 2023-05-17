@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KataKataBijak</string>
+    <string name="quote">kata bijak</string>
+    <string name="author">- Kutipan Dari</string>
+    <string name="judul">Belajar Api</string>
+    <string name="show_list_quotes">Daftar Quote</string>
+</resources>
